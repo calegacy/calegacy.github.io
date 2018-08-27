@@ -1,5 +1,5 @@
 # main text of home
-name: Niveditha Ram
+name: Chelsey Legacy
 bio: 'Physics, Teaching, Engineering.'
 
 # twitter summary info
@@ -7,11 +7,11 @@ description: A blog about Physics and teaching science
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+#external-image: false
 #picture: 'assets/images/profile.jpg'
 
 
- url: http://calegacy.github.io
+url: http://calegacy.github.io
 
 permalink: /:title/
 
@@ -26,24 +26,24 @@ highlighter: rouge
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: NivedithaRam
+#twitter: NivedithaRam
 # google: mygoogle
 # instagram: myinstagram
 #pinterest: annasw
 #linkedin: artiannaswamy
 # youtube: myyoutube
 # spotify: myspotify
-github: NivedithaRam
+#github: NivedithaRam
 # medium: medium
-email: niveditha.ramasubramanian@stonybrook.edu
+#email: niveditha.ramasubramanian@stonybrook.edu
 
 authors:
     NivedithaRam:
         name: Niveditha Ram
-        bio: Physics, Reading, Teaching.
-        external-image: false
+        #bio: Physics, Reading, Teaching.
+        #external-image: false
         #picture: assets/images/profile.jpg
-        twitter: NivedithaRam
+        #twitter: NivedithaRam
 
 
 # do you want a larger site? change the option below
@@ -79,7 +79,7 @@ blog-nav-links: true
 show-author: true
 
 # do you want some animations?
-animation: true
+#animation: true
 
 sass:
     sass_dir: _sass
