@@ -30,7 +30,7 @@ highlighter: rouge
 # google: mygoogle
 # instagram: myinstagram
 #pinterest: 
-linkedin: calegacy
+linkedin: chelsey1221
 # youtube: myyoutube
 # spotify: myspotify
 github: calegacy
@@ -40,10 +40,10 @@ email: legac006@umn.edu
 authors:
     NivedithaRam:
         name: Niveditha Ram
-        #bio: Physics, Reading, Teaching.
-        #external-image: false
-        #picture: assets/images/profile.jpg
-        #twitter: NivedithaRam
+        bio: Physics, Reading, Teaching.
+        external-image: false
+        picture: assets/images/profile.jpg
+        twitter: NivedithaRam
 
 
 # do you want a larger site? change the option below
