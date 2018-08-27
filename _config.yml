@@ -10,8 +10,8 @@ description: A blog about Physics and teaching science
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-# url: http://artiannaswamy.com
-# your url: http://USERNAME.github.io
+
+ url: http://calegacy.github.io
 
 permalink: /:title/
 
