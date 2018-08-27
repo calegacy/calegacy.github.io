@@ -38,19 +38,19 @@ github: calegacy
 # medium: medium
 email: legac006@umn.edu
 
-authors:
-    NivedithaRam:
-        name: Niveditha Ram
-        bio: Physics, Reading, Teaching.
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: NivedithaRam
+#authors:
+    #NivedithaRam:
+        #name: Niveditha Ram
+        #bio: Physics, Reading, Teaching.
+        #external-image: false
+        #picture: assets/images/profile.jpg
+        #twitter: NivedithaRam
 
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: large
+width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
@@ -95,7 +95,7 @@ gems:
   - jekyll-gist
   - jekyll-paginate
 
-#jekyll-mentions:
-    #base_url: http://artiannaswamy.com
+jekyll-mentions:
+    base_url: http://artiannaswamy.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]
