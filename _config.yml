@@ -7,7 +7,7 @@ bio: 'Graduate Student at the University of Minnesota'
 
 # if it's an external image, update below for true
 # better with square images
-#external-image: false
+external-image: false
 picture: 'assets/images/IMG_1129.jpg'
 
 
