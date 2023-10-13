@@ -10,7 +10,7 @@ website:
         text: Home
       - teaching.qmd
       - research.qmd
-      - href: files/Legacy-CV.pdf
+      - href: "files/Legacy-CV.pdf"
         text: CV
 format:
   html:

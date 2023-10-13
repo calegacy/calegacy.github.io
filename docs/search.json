@@ -1,7 +1,14 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chelsey Legacy",
+    "section": "",
+    "text": "Hello! I am Chelsey Legacy, an Assistant Teaching Professor at the University of Minnesota. My research interests include statistics and data science education, with a focus on coding and visualization."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
     "title": "Teaching",
     "section": "",
     "text": "This is a page about courses I am teaching."
@@ -12,12 +19,5 @@
     "title": "Research",
     "section": "",
     "text": "This is a page about my research projects"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Chelsey Legacy",
-    "section": "",
-    "text": "Hello! I am Chelsey Legacy, an Assistant Teaching Professor at the University of Minnesota. My research interests include statistics and data science education, with a focus on coding and visualization."
   }
 ]
