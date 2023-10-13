@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Chelsey Legacy",
+    "title": "Welcome!",
     "section": "",
-    "text": "Hello! I am Chelsey Legacy, an Assistant Teaching Professor at the University of Minnesota. My research interests include statistics and data science education, with a focus on coding and visualization.\n\n\n\nTwo-Column Slide\n====================================\nFirst column (Will appear on left)\n![alt text](myimage.png)\n***\nSecond column (Will appear on right)"
+    "text": "I am Chelsey Legacy, an Assistant Teaching Professor at the University of Minnesota. My research interests include statistics and data science education, with a focus on coding and visualization."
   },
   {
     "objectID": "teaching.html",
