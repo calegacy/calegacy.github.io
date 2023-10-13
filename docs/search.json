@@ -2,15 +2,15 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Teaching",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This is a page about courses I am teaching."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "calegacy.github.io",
+    "title": "Chelsey Legacy",
     "section": "",
-    "text": "This is an UPDATED Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! I am Chelsey Legacy, an Assistant Teaching Professor at the University of Minnesota. My research interests include statistics and data science education, with a focus on coding and visualization."
   }
 ]

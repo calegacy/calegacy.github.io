@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "Teaching"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+This is a page about courses I am teaching.

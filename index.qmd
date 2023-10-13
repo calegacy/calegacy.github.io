@@ -1,5 +1,5 @@
 ---
-title: "calegacy.github.io"
+title: "Chelsey Legacy"
 ---
 
 Hello! I am Chelsey Legacy, an Assistant Teaching Professor at the University of Minnesota. My research interests include statistics and data science education, with a focus on coding and visualization.
