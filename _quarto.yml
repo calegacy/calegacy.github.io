@@ -8,9 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - teaching.qmd
       - research.qmd
-
+      - href: files/Legacy-CV.pdf
+        text: CV
 format:
   html:
     theme: minty
