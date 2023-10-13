@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "calegacy.github.io"
+  title: "Chelsey A. Legacy"
   navbar:
     left:
       - href: index.qmd
