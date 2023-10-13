@@ -3,3 +3,13 @@ title: "Teaching"
 ---
 
 This is a page about courses I am teaching.
+
+I am currently teaching the introductory statistics sequence for master's levels students in the Educational Psychology department.
+
+EPSY 5261:
+
+EPSY 5261:
+
+I also oversee the undergraduate data visualization course:
+
+EPSY 1261

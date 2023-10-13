@@ -3,3 +3,23 @@ title: "Research"
 ---
 
 This is a page about my research projects
+
+Current research projects:
+
+I am a co-founder of LASER at UMN.
+
+We are currently doing research on developing reasoning around algorithmic modelling, conducting code review, and assessing the validity of instruments used in statistics education research. Check out our website for more information!
+
+Past Projects
+
+-   DSC-WAV Evaluation Graduate Student Assistant
+
+-   Data2Graphs
+
+-   STI
+
+-   COMPUTES
+
+-   Data Science Assessment
+
+-   Dissertation Project
