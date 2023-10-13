@@ -1,7 +1,7 @@
 ---
-title: "Chelsey Legacy"
+title: "Welcome!"
 ---
 
-+-------------------------------------------------------------+:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
-| ![](files/LegacyC-2019.png){fig-align="center" width="200"} | Hello! I am Chelsey Legacy, an Assistant Teaching Professor at the University of Minnesota. My research interests include statistics and data science education, with a focus on coding and visualization. |
-+-------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+I am Chelsey Legacy, an Assistant Teaching Professor at the University of Minnesota. My research interests include statistics and data science education, with a focus on coding and visualization.
+
+![](files/LegacyC-2019.png){fig-align="center" width="200"}
