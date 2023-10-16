@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome!",
+    "objectID": "more.html",
+    "href": "more.html",
+    "title": "More",
     "section": "",
-    "text": "I am Chelsey Legacy, an Assistant Teaching Professor at the University of Minnesota. My research interests include statistics and data science education, with a focus on coding and visualization."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "This is a page about courses I am teaching."
+    "text": "A bit more:\nStatTLC bog posts\nStatChat website link"
   },
   {
     "objectID": "research.html",
@@ -19,5 +12,19 @@
     "title": "Research",
     "section": "",
     "text": "This is a page about my research projects\nCurrent research projects:\nI am a co-founder of LASER at UMN.\nWe are currently doing research on developing reasoning around algorithmic modelling, conducting code review, and assessing the validity of instruments used in statistics education research. Check out our website for more information!\nPast Projects\n\nDSC-WAV Evaluation Graduate Student Assistant\nData2Graphs\nSTI\nCOMPUTES\nData Science Assessment\nDissertation Project"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "This is a page about courses I am teaching.\nI am currently teaching the introductory statistics sequence for master’s levels students in the Educational Psychology department.\nEPSY 5261:\nEPSY 5261:\nI also oversee the undergraduate data visualization course:\nEPSY 1261"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "I am Chelsey Legacy, an Assistant Teaching Professor at the University of Minnesota. My research interests include statistics and data science education, with a focus on coding and visualization."
   }
 ]
