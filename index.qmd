@@ -1,7 +1,33 @@
 ---
-title: "Welcome!"
+title: "Chelsey Legacy"
+about:
+  id: hero-heading
+  template: solana
+  image: "files/LegacyC2019.jpeg"
+  image-width: 10em
+  # links:
+  #   - icon: twitter
+  #     text: twitter
+  #     href: https://twitter.com
+  #   - icon: github
+  #     text: Github
+  #     href: https://github.com
 ---
 
-+:-----------------------------------------:+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
-| ![](files/LegacyC-2019.jpeg){width="150"} | I am Chelsey Legacy, an Assistant Teaching Professor at the University of Minnesota. My research interests include statistics and data science education, with a focus on coding and visualization. |
-+-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+:::{#hero-heading}
+
+I am currently an Assistant Teaching Professor at the University of Minnesota teaching gradate level introductory statistics courses in the Educational Psychology department. I also oversee an undergraduate course focused on visualization. My research interests focus on statistics and data science education, particularly in relation to coding and data visualization.
+
+## Education
+
+Ph.D. Educational Psychology - Quantitative Methods \| University of Minnesota
+
+M.S. Statistics \| Iowa State University
+
+B.A in Mathematics \| St. Lawrence University
+
+## Experience
+
+Assistant Teaching Professor \| University of Minnesota \| Quantitative Methods in Education \| 2022 - Present
+
+:::
