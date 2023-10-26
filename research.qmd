@@ -2,24 +2,30 @@
 title: "Research"
 ---
 
-This is a page about my research projects
+Statistics skills such as multivariate reasoning, visualization, and computing are
+vital in today\'s world. Though these skills are essential for statistics
+and data science in the workplace they are not always given much attention in introductory
+statistics courses, but instead only included in more advanced courses. In addition, we do not
+know much about how to thoughtfully integrate these topics into our introductory statistics
+courses effectively. For this reason, my research has focused on student\'s reasoning and
+assessment of these essential statistics and data science skills.
 
-Current research projects:
+**Current research projects:**
 
-I am a co-founder of LASER at UMN.
+I am a co-founder of the Lab for Advancing Statistics Education Research (LASER) at UMN.
 
-We are currently doing research on developing reasoning around algorithmic modelling, conducting code review, and assessing the validity of instruments used in statistics education research. Check out our website for more information!
+We are currently doing research on developing reasoning around algorithmic modelling, conducting code review, and assessing the validity of instruments used in statistics education research.
 
-Past Projects
+**Past Projects**
 
--   DSC-WAV Evaluation Graduate Student Assistant
+-   DSC-WAV Evaluation: evaluation of an NSF funded data science project connecting undergraduate students with local organizations to partner on a project
 
--   Data2Graphs
+-   Data2Graphs: a study of high school math teachers' reasoning about the relationships between multivariate data structures and graphs
 
--   STI
+-   Statistics Teaching Inventory: development of an instrument to assess the current landscape of introductory statistics courses pedagogy and content
 
--   COMPUTES
+-   COMPUTES: development of an instrument to assess the current landscape of introductory statistics courses computing practices
 
--   Data Science Assessment
+-   Data Science Assessment: developing a research based assessment for introductory data science courses
 
--   Dissertation Project
+-   Dissertation work: using DAGs to support multivariate reasoning in undergraduate students

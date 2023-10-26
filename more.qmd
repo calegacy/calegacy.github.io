@@ -2,8 +2,8 @@
 title: "More"
 ---
 
-A bit more:
+For more statistics education and research discussion check out:
 
-StatTLC bog posts
+-   [StatTLC](https://stattlc.com/) for some blog posts I may have helped edit!
 
-StatChat website link
+-   StatChat for the latest Twin Cities statistics education get-together!
