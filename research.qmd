@@ -2,6 +2,8 @@
 title: "Research"
 ---
 
+![](files/background-web/‎background-web.‎001.jpeg)
+
 Statistics skills such as multivariate reasoning, visualization, and computing are
 vital in today\'s world. Though these skills are essential for statistics
 and data science in the workplace they are not always given much attention in introductory
@@ -18,14 +20,14 @@ We are currently doing research on developing reasoning around algorithmic model
 
 **Past Projects**
 
--   DSC-WAV Evaluation: evaluation of an NSF funded data science project connecting undergraduate students with local organizations to partner on a project
+-   *DSC-WAV Evaluation:* evaluation of an NSF funded data science project connecting undergraduate students with local organizations to partner on a project
 
--   Data2Graphs: a study of high school math teachers' reasoning about the relationships between multivariate data structures and graphs
+-   *Data2Graphs:* a study of high school math teachers' reasoning about the relationships between multivariate data structures and graphs
 
--   Statistics Teaching Inventory: development of an instrument to assess the current landscape of introductory statistics courses pedagogy and content
+-   *Statistics Teaching Inventory:* development of an instrument to assess the current landscape of introductory statistics courses pedagogy and content
 
--   COMPUTES: development of an instrument to assess the current landscape of introductory statistics courses computing practices
+-   *COMPUTES:* development of an instrument to assess the current landscape of introductory statistics courses computing practices
 
--   Data Science Assessment: developing a research based assessment for introductory data science courses
+-   *Data Science Assessment:* developing a research based assessment for introductory data science courses
 
--   Dissertation work: using DAGs to support multivariate reasoning in undergraduate students
+-   *Dissertation work:* using DAGs to support multivariate reasoning in undergraduate students

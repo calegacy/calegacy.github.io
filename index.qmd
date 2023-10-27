@@ -14,13 +14,15 @@ about:
   #     href: https://github.com
 ---
 
+![](files/background-web/‎background-web.‎001.jpeg)
+
 :::{#hero-heading}
 
 I am currently an Assistant Teaching Professor at the University of Minnesota teaching gradate level introductory statistics courses in the Educational Psychology department. I also oversee an undergraduate course focused on visualization. My research interests focus on statistics and data science education, particularly in relation to coding and data visualization.
 
 ## Education
 
-Ph.D. Educational Psychology - Quantitative Methods \| University of Minnesota
+Ph.D. Educational Psychology \| Quantitative Methods \| University of Minnesota
 
 M.S. Statistics \| Iowa State University
 

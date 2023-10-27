@@ -11,14 +11,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "This is a page about my research projects\nCurrent research projects:\nI am a co-founder of LASER at UMN.\nWe are currently doing research on developing reasoning around algorithmic modelling, conducting code review, and assessing the validity of instruments used in statistics education research. Check out our website for more information!\nPast Projects\n\nDSC-WAV Evaluation Graduate Student Assistant\nData2Graphs\nSTI\nCOMPUTES\nData Science Assessment\nDissertation Project"
+    "text": "Statistics skills such as multivariate reasoning, visualization, and computing are vital in today's world. Though these skills are essential for statistics and data science in the workplace they are not always given much attention in introductory statistics courses, but instead only included in more advanced courses. In addition, we do not know much about how to thoughtfully integrate these topics into our introductory statistics courses effectively. For this reason, my research has focused on student's reasoning and assessment of these essential statistics and data science skills.\nCurrent research projects:\nI am a co-founder of the Lab for Advancing Statistics Education Research (LASER) at UMN.\nWe are currently doing research on developing reasoning around algorithmic modelling, conducting code review, and assessing the validity of instruments used in statistics education research.\nPast Projects\n\nDSC-WAV Evaluation: evaluation of an NSF funded data science project connecting undergraduate students with local organizations to partner on a project\nData2Graphs: a study of high school math teachers’ reasoning about the relationships between multivariate data structures and graphs\nStatistics Teaching Inventory: development of an instrument to assess the current landscape of introductory statistics courses pedagogy and content\nCOMPUTES: development of an instrument to assess the current landscape of introductory statistics courses computing practices\nData Science Assessment: developing a research based assessment for introductory data science courses\nDissertation work: using DAGs to support multivariate reasoning in undergraduate students"
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "My teaching practices stem from my knowledge of statistics and my studies in educational psychology and measurement. In my classroom, students learn to think critically about statistics through collaboration with their peers in small-group, guided discovery learning activities and using thoughtfully developed assessments and curriculum informed by research. I aim to provide students with the tools they need to be thoughtful data consumers, producers, and communicators while creating a classroom atmosphere where students feel welcome to ask questions and participate in meaningful discussions.\nI currently teach the master’s level introductory statistics courses:\n\nEPSY 5261: Introductory Statistical Methods\nEPSY 5262: Intermediate Statistical Methods\n\nAnd I oversee an undergraduate data visualization course:\n\nEPSY 1261: Understanding Data Stories Through Visualization and Computing"
+    "text": "My teaching practices stem from my knowledge of statistics and my studies in educational psychology and measurement. In my classroom, students learn to think critically about statistics through collaboration with their peers in small-group, guided discovery learning activities and using thoughtfully developed assessments and curriculum informed by research. I aim to provide students with the tools they need to be thoughtful data consumers, producers, and communicators while creating a classroom atmosphere where students feel welcome to ask questions and participate in meaningful discussions.\nI currently teach the master’s level introductory statistics courses:\n\nEPSY 5261: Introductory Statistical Methods\nEPSY 5262: Intermediate Statistical Methods\n\nAnd I oversee an undergraduate data visualization course:\n\nEPSY 1261: Understanding Data Stories Through Visualization and Computing\n\nPast Courses Taught:\n\nUMN | EPSY 3264: Basic and Applied Statistics\nISU | STAT 104: Introduction to Statistics\nISU | STAT 101: Principles of Statistics"
   },
   {
     "objectID": "index.html",
@@ -31,14 +31,14 @@
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Chelsey Legacy",
-    "section": "",
-    "text": "Ph.D. Educational Psychology - Quantitative Methods | University of Minnesota\nM.S. Statistics | Iowa State University\nB.A in Mathematics | St. Lawrence University"
+    "section": "Education",
+    "text": "Education\nPh.D. Educational Psychology | Quantitative Methods | University of Minnesota\nM.S. Statistics | Iowa State University\nB.A in Mathematics | St. Lawrence University"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Chelsey Legacy",
-    "section": "",
-    "text": "Assistant Teaching Professor | University of Minnesota | Quantitative Methods in Education | 2022 - Present"
+    "section": "Experience",
+    "text": "Experience\nAssistant Teaching Professor | University of Minnesota | Quantitative Methods in Education | 2022 - Present"
   }
 ]

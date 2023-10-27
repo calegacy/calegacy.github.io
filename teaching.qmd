@@ -2,6 +2,8 @@
 title: "Teaching"
 ---
 
+![](files/background-web/‎background-web.‎001.jpeg)
+
 My teaching practices stem from my knowledge of statistics and my studies in educational psychology and measurement. In my classroom, students learn to think critically about statistics through collaboration with their peers in small-group, guided discovery learning activities and using thoughtfully developed assessments and curriculum informed by research. I aim to provide students with the tools they need to be thoughtful data consumers, producers, and communicators while creating a classroom atmosphere where students feel welcome to ask questions and participate in meaningful discussions.
 
 **I currently teach the master's level introductory statistics courses:**
@@ -16,8 +18,8 @@ My teaching practices stem from my knowledge of statistics and my studies in edu
 
 **Past Courses Taught:**
 
--   UMN \| EPSY 3264
+-   UMN \| *EPSY 3264: Basic and Applied Statistics*
 
--   ISU \| STAT 104
+-   ISU \| *STAT 104: Introduction to Statistics*
 
--   ISU \| STAT 101
+-   ISU \| *STAT 101: Principles of Statistics*
