@@ -7,7 +7,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Upcoming
       - teaching.qmd
       - research.qmd
       - more.qmd
