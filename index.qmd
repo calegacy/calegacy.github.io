@@ -16,8 +16,7 @@ about:
 
 ![](files/background-web/‎background-web.‎001.jpeg)
 
-:::{#hero-heading}
-
+::: {#hero-heading}
 I am currently an Assistant Teaching Professor at the University of Minnesota teaching gradate level introductory statistics courses in the Educational Psychology department. I also oversee an undergraduate course focused on visualization. My research interests focus on statistics and data science education, particularly in relation to coding and data visualization.
 
 ## Education
@@ -31,5 +30,4 @@ B.A in Mathematics \| St. Lawrence University
 ## Experience
 
 Assistant Teaching Professor \| University of Minnesota \| Quantitative Methods in Education \| 2022 - Present
-
 :::
